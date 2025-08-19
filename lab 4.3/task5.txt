@@ -1,0 +1,5 @@
+You're given numbers (in flowers), and an answer to a math sentence. Drag two flowers to the empty slots so that the math sentence is true.
+
+Choose any of the four operations — addition, subtraction, multiplication, or division.
+
+You can also decide the number range of the numbers used, with the exception of division. This means your addition, subtraction, and multiplication sentences can be with one, two or three-digit numbers, as you wish. Or with negative numbers! For division,
